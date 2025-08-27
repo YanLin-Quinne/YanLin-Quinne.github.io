@@ -1,34 +1,60 @@
 ---
 layout: about
-title: about
+title: About
 permalink: /
-subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Motto. Etc.
+#subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Moto. Etc.
+about_subtitle: Biography
+
 
 profile:
-  align: right
-  image: prof_pic.jpg
+  align: left
+  image: profile.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
-    <p>555 your office number</p>
-    <p>123 your address street</p>
-    <p>Your City, State 12345</p>
+    <p> <small>School of Computing<small></p>
+    <p> <small>Newcastle University<small></p>
+  role: CS & Math PhD Student
+  organization: Newcastle  University  
+  organization_url:  
 
-selected_papers: true # includes a list of papers marked as "selected={true}"
+interests:
+  - Large Language Models
+  - Tensor Method / Tensor Approximation
+
+
+education:
+  courses:
+    - course: PhD Candidate in Applied Mathematics, 2022-present
+      institution: University of Oxford
+      year:
+    - course: M.Sc. Mathematical Modelling and Scientific Computing, 2021
+      institution: University of Oxford
+      year:
+    - course: Undergraduate + Master of Mathematics
+      institution: University of Oxford
+      year:
+
+
+
+
+
+news: true # includes a list of news items
+selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
-
-announcements:
-  enabled: true # includes a list of news items
-  scrollable: true # adds a vertical scroll bar if there are more than 3 news items
-  limit: 5 # leave blank to include all the news in the `_news` folder
-
-latest_posts:
-  enabled: true
-  scrollable: true # adds a vertical scroll bar if there are more than 3 new posts items
-  limit: 3 # leave blank to include all the blog posts
 ---
 
-Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
 
-Put your address / P.O. box / other info right below your picture. You can also disable any of these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
+Hi! I’m Kate Wenqi Zhu, currently pursuing a Ph.D. in [Applied Mathematics](https://www.maths.ox.ac.uk/groups/numerical-analysis) at the [University of Oxford](https://www.maths.ox.ac.uk/), advised by Prof. [Coralia Cartis](https://www.maths.ox.ac.uk/people/coralia.cartis) and fully funded by the [CIMDA-Oxford Studentship](https://cimda-oxford.datasig.ac.uk/team).
 
-Link to your social media connections, too. This theme is set up to use [Font Awesome icons](https://fontawesome.com/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
+My research interests center on **utilizing higher-order information for efficient nonconvex optimization**, encompassing computational complexity analysis, **tensor approximation**, sum of squares techniques, implementable high-order subproblem solvers, and adaptive regularization methods.
+
+I completed both my undergraduate and first master’s degrees in **Mathematics at Oxford**, as well as an M.Sc. in Mathematical Modelling and Scientific Computing, supervised by Yuji Nakatsukasa. After my undergraduate studies, I took a career break to gain practical industry experience at Goldman Sachs and J.P. Morgan before beginning my Ph.D.
+
+**Potential Collaborations:** If you are interested in these topics, feel free to reach out for more information!
+
+&nbsp;
+&nbsp;
+
+
+
+

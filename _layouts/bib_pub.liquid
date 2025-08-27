@@ -1,0 +1,41 @@
+---
+---
+
+
+<div class="grid-sizer col-lg-12 isotope-item pubtype-4"  >
+
+
+
+    <div class="pub-list-item view-citation" style="margin-bottom: 1rem">
+        <i class="far fa-file-alt pub-icon" aria-hidden="true"></i>
+
+        <!-- Author start-->
+        {% if entry.author_text %}
+            {{ entry.author_text | markdownify | remove: "<p>"  | remove: "</p>" }}
+        {% elsif entry.author %}
+            {{ entry.author | markdownify | remove: "<p>"  | remove: "</p>" }}
+        {% endif %}
+        <!-- Author end-->
+
+        {% comment %}year{% endcomment %}
+        {% if entry.year %}({{ entry.year }}).{% endif %}
+
+
+        <span class="article-title"> {{ entry.title }}. </span>
+        {% if entry.status %}
+            <span> {{ entry.status }}. </span>
+        {% endif %}
+
+
+        {% if entry.pdf %}
+            <p>
+                <a class="btn btn-outline-primary btn-page-header btn-sm" href="{{ entry.pdf }}" target="_blank" rel="noopener">
+                    PDF
+                </a>
+            </p>
+        {% endif %}
+
+    </div>
+
+</div>
+
