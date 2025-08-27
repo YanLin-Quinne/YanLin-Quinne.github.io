@@ -1,9 +1,11 @@
 ---
 layout: post
-date: 2024-07-22 15:59:00-0400
+date: 2024-06
 inline: true
 related_posts: false
 ---
 
-🎓 Honoured to be invited to the **Chinese Academy of Sciences** to give a talk and research visit. Heading to Beijing. 
+ Honoured to award Durham University Business School PhD Scholarship (2024-2027).
+
+
 
