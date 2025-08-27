@@ -40,7 +40,7 @@ selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 ---
 
-Hi! I'm Quinne Yan Lin 林妍, currently pursuing a Ph.D. in [Computer Science](https://www.ncl.ac.uk/computing/), having started in March 2025. My Ph.D. is fully funded by a five-year **Postgraduate Research Studentship**, which covers full international tuition fees and tax-free living [UKRI stipend](https://www.ukri.org/news/ukri-is-increasing-phd-stipends-and-improving-student-support/),and an integrated PGTA position(formal university staff) that is co-terminous with my doctoral studies.
+Hi! I'm Quinne Yan Lin 林妍, currently pursuing a Ph.D. in [Computer Science](https://www.ncl.ac.uk/computing/), which I began in March 2025. My Ph.D. is fully funded by a five-year **Postgraduate Research Studentship**, which covers full international tuition fees and tax-free living [UKRI stipend](https://www.ukri.org/news/ukri-is-increasing-phd-stipends-and-improving-student-support/),and an integrated PGTA position(formal university staff) that is co-terminous with my doctoral studies.
 
 My research interests center on **Large Language Models**,  memory-efficient tranining, inference acceleration, and sparse attention mechanisms, **Agents& RAG**, as well as diffusion-based generative methods that extend across text, vision, and multimodal domains, to develop more robust, trustworthy, and resource-efficient AI systems.
 
