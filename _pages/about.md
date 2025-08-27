@@ -26,13 +26,13 @@ education:
   courses:
     - course: PhD Candidate in Applied Mathematics, 2022-present
       institution: University of Oxford
-      year:
+      year: 2022
     - course: M.Sc. Mathematical Modelling and Scientific Computing, 2021
       institution: University of Oxford
-      year:
+      year: 2019
     - course: Undergraduate + Master of Mathematics
       institution: University of Oxford
-      year:
+      year: 2015
 
 
 
