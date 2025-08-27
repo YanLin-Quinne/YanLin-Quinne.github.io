@@ -61,7 +61,7 @@
                     <ul class="ul-edu fa-ul">
                         {% for eItem in page.education.courses %}
                             <li>
-                                <i class="fa-li fas fa-graduation-cap"></i>
+                                <i class="fa-li fas fa-graduation-cap" style="left:-30px"></i>
                                 <div class="description">
                                     <div class="course">{{ eItem.course  |  markdownify  | remove: '<p>' | remove: '</p>' }}{{ eItem.year }}</div>
                                     <div class="institution">{{ eItem.institution  |  markdownify | remove: '<p>' | remove: '</p>'}}</div>

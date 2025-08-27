@@ -20,8 +20,8 @@ profile:
 interests:
   - Multimodal AI
   - Efficient Large Language Models
-  - Agents & RAG
-  - Diffusion & Generative Modelling
+  - Agents and Retrieval-Augmented Generation
+  - Diffusion and Generative Modelling
 
 
 education:
@@ -32,9 +32,7 @@ education:
     - course: M.Sc. Data Science, 2022-2023
       institution: University of Durham
    
-    - course: Undergraduate in Finance & Economics, 2017-2018
-      institution: National Taipei Univerisity (Exchange Programm)
-    
+
 
 
 news: true # includes a list of news items
