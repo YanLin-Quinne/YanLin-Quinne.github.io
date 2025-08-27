@@ -19,5 +19,5 @@ horizontal: false
 
 *The studentship was voluntarily declined in favour of another offer.
 
-![aw](/awards/profile.jpg)
+![aw](/awards/award_qmul.jpgg)
 
