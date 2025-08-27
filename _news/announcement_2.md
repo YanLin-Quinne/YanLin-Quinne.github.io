@@ -5,5 +5,7 @@ inline: true
 related_posts: false
 ---
 
-Honoured to be awarded the **Durham University – China Scholarship Council (CSC) PhD Scholarship**, which covers full international tuition fees (valued at £24,500 per year, subject to annual increase) and provides a monthly living stipend of £1,200 for three years — a total support package of over £116,000. [More details](https://www.durham.ac.uk/study/scholarships/international/chinese-scholarships-council/)
+**Durham University – China Scholarship Council (CSC) PhD Scholarship (2024–2027)**
+Awarded a joint scholarship covering full international tuition fees (valued at £73,500 over three years, subject to annual increase) and a living stipend of £1,200 per month provided by the CSC.
+**Total value: ~£116,700.**[More details](https://www.durham.ac.uk/study/scholarships/international/chinese-scholarships-council/)
 

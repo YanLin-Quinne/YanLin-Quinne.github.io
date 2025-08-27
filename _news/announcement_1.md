@@ -5,7 +5,9 @@ inline: true
 related_posts: false
 ---
 
-Honoured to be awarded the **Durham University Business School PhD Scholarship (2024–2027)**. Full tuition waiver for international students + annual UKRI rate allowance (19,237 pounds for the 2024/25 academic year), for 36 months.[More detals](https://www.durham.ac.uk/business/programmes/phd/phd-scholarships/) 
+**Durham University Business School PhD Scholarship (2024–2027)**
+Awarded a full tuition waiver for international students (valued at £73,500 over three years, subject to annual increas) plus a UKRI-rate living stipend of £19,237 per annum.
+**Total value: ~£131,211.**[More detals](https://www.durham.ac.uk/business/programmes/phd/phd-scholarships/) 
 
 
 
