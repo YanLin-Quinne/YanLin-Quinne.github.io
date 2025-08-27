@@ -18,24 +18,23 @@ profile:
   organization_url:  
 
 interests:
-  - Large Language Models
-  - Tensor Method / Tensor Approximation
+  - Multimodal AI
+  - Efficient Large Language Models
+  - Agents & RAG
+  - Diffusion & Generative Modelling
 
 
 education:
   courses:
-    - course: PhD Candidate in Applied Mathematics, 2022-present
-      institution: University of Oxford
-      year: 2022
-    - course: M.Sc. Mathematical Modelling and Scientific Computing, 2021
-      institution: University of Oxford
-      year: 2019
-    - course: Undergraduate + Master of Mathematics
-      institution: University of Oxford
-      year: 2015
-
-
-
+    - course: PhD student in Computer Science, 2025 - present
+      institution: University of Newcastle upon Tyne
+      year: 
+    - course: M.Sc. Data Science, 2022-2023
+      institution: University of Durham
+      year: 
+    - course: Undergraduate in Finance & Economics, 2017-2018
+      institution: National Taipei Univerisity (Exchange Programm)
+      year: 
 
 
 news: true # includes a list of news items
@@ -43,12 +42,12 @@ selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 ---
 
+Hi! I'm Quinne Yan Lin, currently pursuing a Ph.D. in [Computer Science](https://www.ncl.ac.uk/computing/), starting in Mar 2025, the first-year PhD student now. My research is fully funded by Postgraduate Research Studentship, which is 5-year package, covering full international tuition fees and tax-free living [UKRI stipend](https://www.ukri.org/news/ukri-is-increasing-phd-stipends-and-improving-student-support/),equivalent in scope to a U.S. Teaching Assistantship. I am working as PGTA (regular fixed-term staff, contract is 5-year and co-terminous with the PhD) within the School of Computing.
 
-Hi! I’m Kate Wenqi Zhu, currently pursuing a Ph.D. in [Applied Mathematics](https://www.maths.ox.ac.uk/groups/numerical-analysis) at the [University of Oxford](https://www.maths.ox.ac.uk/), advised by Prof. [Coralia Cartis](https://www.maths.ox.ac.uk/people/coralia.cartis) and fully funded by the [CIMDA-Oxford Studentship](https://cimda-oxford.datasig.ac.uk/team).
+My research interests center on **Large Language Modesl**, memory-efficient tranining, sparse attention, **Agents& RAG**, sum of diffusion techniques.
 
-My research interests center on **utilizing higher-order information for efficient nonconvex optimization**, encompassing computational complexity analysis, **tensor approximation**, sum of squares techniques, implementable high-order subproblem solvers, and adaptive regularization methods.
+I completed both my bachelor degree in **Finance and Economics at Mainland China and Taiwan**.  After graduation,I worked for three years in the financial industry, gaining practical experience at **Essence Securities** and **China Construction Bank**. Following this, I made a career transition into computing, earning a **Master degree in Data Science at Durham**, a programme combining equal parts mathematics and programming, which has led me to pursue a PhD.
 
-I completed both my undergraduate and first master’s degrees in **Mathematics at Oxford**, as well as an M.Sc. in Mathematical Modelling and Scientific Computing, supervised by Yuji Nakatsukasa. After my undergraduate studies, I took a career break to gain practical industry experience at Goldman Sachs and J.P. Morgan before beginning my Ph.D.
 
 **Potential Collaborations:** If you are interested in these topics, feel free to reach out for more information!
 
