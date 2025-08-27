@@ -1,6 +1,7 @@
 ---
 layout: about
 title: About
+render_with_liquid: false
 permalink: /
 #subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Moto. Etc.
 about_subtitle: Biography
