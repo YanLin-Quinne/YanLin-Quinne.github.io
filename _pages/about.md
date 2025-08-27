@@ -14,7 +14,7 @@ profile:
     <p> <small>School of Computing<small></p>
     <p> <small>Newcastle University<small></p>
   role: CS & Math PhD Student
-  organization: Newcastle  University  
+  organization: Newcastle  University, UK  
   organization_url:  
 
 interests:
@@ -30,7 +30,7 @@ education:
       institution: University of Newcastle upon Tyne
     
     - course: M.Sc. Data Science, 2022-2023
-      institution: University of Durham
+      institution: University of Durham, UK
    
 
 
@@ -44,7 +44,7 @@ Hi! I'm Quinne Yan Lin 林妍, currently pursuing a Ph.D. in [Computer Science](
 
 My research interests center on **Large Language Models**,  memory-efficient tranining, inference acceleration, and sparse attention mechanisms, **Agents& RAG**, as well as diffusion-based generative methods that extend across text, vision, and multimodal domains, to develop more robust, trustworthy, and resource-efficient AI systems.
 
-I completed both my bachelor degree in **Finance and Economics** across Mainland China and Taiwan. After graduation, I workeded for three years in the financial industry, gaining practical experience at **Essence Securities** and **China Construction Bank**. Subsequently, I made a career transition into computing, earning a **Master degree in Data Science at Durham University**, a programme combining equal parts mathematics and programming, which has led me to pursue a PhD.
+I completed both my bachelor degree in **Finance and Economics** across Mainland China and Taiwan. After graduation, I workeded for three years in the financial industry, gaining practical experience at Essence Securities and China Construction Bank. Subsequently, I made a career transition into computing, earning a **Master degree in Data Science at Durham University**, a programme combining equal parts mathematics and programming, which has led me to pursue a PhD.
 
 
 **Potential Collaborations:** If you are interested in related topics - or see opportunities for interdisciplinary collaboration - please feel free to reach out!
