@@ -1,7 +1,6 @@
 ---
 layout: about
 title: About
-render_with_liquid: false
 permalink: /
 #subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Moto. Etc.
 about_subtitle: Biography
@@ -32,7 +31,7 @@ education:
     
     - course: M.Sc. Data Science, 2022-2023
       institution: University of Durham
-      year: 
+   
     - course: Undergraduate in Finance & Economics, 2017-2018
       institution: National Taipei Univerisity (Exchange Programm)
     
