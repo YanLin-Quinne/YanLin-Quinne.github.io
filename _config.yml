@@ -6,7 +6,8 @@ title: blank # the website title (if blank, full name will be used instead)
 first_name: Quinne  
 middle_name: Yan
 last_name: Lin
-#email: kate.s.zhu@gmail.com
+email: yan.quinne.lin@outlook.com
+
 description: > # the ">" symbol means to ignore newlines until "footer_text:"
   Quinne Lin's Webpage
 footer_text: >
@@ -89,7 +90,7 @@ lattes_id: # your ID on Lattes (Brazilian Lattes CV)
 linkedin_username: quinne-lin-49b171264  # your LinkedIn user name
 mastodon_username: # your mastodon instance+username in the format instance.tld/@username
 medium_username: # your Medium username
-orcid_id: # your ORCID ID
+orcid_id: https://orcid.org/0009-0008-2366-6012 # your ORCID ID
 osf_id: # your OSF ID
 pinterest_id: # your pinterest id
 publons_id: # your ID on Publons
