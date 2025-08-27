@@ -4,7 +4,7 @@ title: Awards
 permalink: /awards/
 description: AWARDS AND FUNDS
 nav: true
-nav_order: 10
+nav_order: 3
 # display_categories: []
 horizontal: false
 ---
@@ -18,4 +18,6 @@ horizontal: false
 
 
 *The studentship was voluntarily declined in favour of another offer.
+
+![aw](/talks/profile.jpg)
 
