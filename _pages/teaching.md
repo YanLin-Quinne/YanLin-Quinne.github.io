@@ -29,6 +29,7 @@ nav_order: 3
 - Student Recruitment  
 - Exam Invigilation  
 - Postgraduate Dissertation Support 
+
 ---
 
 My teaching is deeply informed by my research expertise in large language models and multimodal artificial intelligence. In both undergraduate and postgraduate teaching, I emphasise clarity, accessibility, and inclusivity, ensuring that students gain confidence in approaching advanced computational methods while developing transferable problem-solving skills.  
