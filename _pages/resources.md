@@ -1,7 +1,7 @@
 ---
 layout: page
 permalink: /resources/
-title: Reading Notes
+title: Reading Notes / Resources / Inspirations
 description: 
 nav: true
 nav_order: 10
