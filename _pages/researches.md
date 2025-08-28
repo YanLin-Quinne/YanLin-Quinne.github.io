@@ -2,7 +2,7 @@
 layout: page
 title: Research
 permalink: /researches/
-description: This section showcases some side research/fun projects that may not directly align with my main research direction, along with ongoing research and projects. Feel free to reach out if you're interested! 📩
+#description: This section showcases some side research/fun projects that may not directly align with my main research direction, along with ongoing research and projects. Feel free to reach out if you're interested! 📩
 nav: true
 nav_order: 2
 # display_categories: []
