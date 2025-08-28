@@ -4,7 +4,7 @@ permalink: /teaching/
 title: Teaching
 description: I enjoy teaching a wide range of subjects in artificial intelligence and computer science, and I am particularly passionate about explaining advanced AI concepts in clear and accessible language to students without a technical background. 
 nav: true
-nav_order: 4
+nav_order: 3
 ---
 
 ### Teaching at  Newcastle University
