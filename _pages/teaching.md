@@ -7,7 +7,7 @@ nav: true
 nav_order: 4
 ---
 
-### Teaching at the Newcastle University
+### Teaching at  Newcastle University
 
 **CSC1035 Programming Portfolio 2 – Java**  
 *Undergraduate Lab Demonstrator & Marker, School of Computing, 2024–25 (completed), 2025–26 (assigned)*  
