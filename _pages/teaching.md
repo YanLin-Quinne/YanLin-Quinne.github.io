@@ -22,16 +22,13 @@ nav_order: 3
 - Supporting first-year students in introductory Java programming, including guided lab activities, one-to-one support, and formative feedback.  
 
 
-### Additional Teaching Responsibilities  
+**Additional Teaching Responsibilitie** 
 
 - Lab Testing & Maintenance 
 - Induction Week Support 
 - Student Recruitment  
 - Exam Invigilation  
-- Postgraduate Dissertation Support – Mentored MSc and MPhil students in summer dissertation projects (Jul–Aug 2025):  
-  - *Project and Dissertation for MSc in Computer Science (CSC8099)*  
-  - *Project and Dissertation for MSc in Advanced Computer Science (CSC8499)*  
-
+- Postgraduate Dissertation Support 
 ---
 
 My teaching is deeply informed by my research expertise in large language models and multimodal artificial intelligence. In both undergraduate and postgraduate teaching, I emphasise clarity, accessibility, and inclusivity, ensuring that students gain confidence in approaching advanced computational methods while developing transferable problem-solving skills.  
