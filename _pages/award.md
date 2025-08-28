@@ -20,9 +20,11 @@ horizontal: false
 *The studentship was voluntarily declined in favour of another offer.
 
 
-<div style="display: flex; gap: 20px; justify-content: center; flex-wrap: wrap;">
-  <img src="{{ '/assets/img/awards/award_qmul.jpg' | relative_url }}" alt="QMUL" style="width:30%; max-width:250px; height:auto;"/>
-  <img src="{{ '/assets/img/awards/award_csc.jpg' | relative_url }}" alt="CSC" style="width:30%; max-width:250px; height:auto;"/>
-  <img src="{{ '/assets/img/awards/award_durham.jpg' | relative_url }}" alt="Durham" style="width:30%; max-width:250px; height:auto;"/>
+<div style="display: grid; grid-template-columns: repeat(2, 1fr); gap: 20px; justify-items: center;">
+  <img src="{{ '/assets/img/awards/award_qmul.jpg' | relative_url }}" alt="QMUL Award" style="width:100%; max-width:250px; height:auto;"/>
+  <img src="{{ '/assets/img/awards/award_csc.jpg' | relative_url }}" alt="CSC Award" style="width:100%; max-width:250px; height:auto;"/>
+  <img src="{{ '/assets/img/awards/durham.jpg' | relative_url }}" alt="Durham Award" style="width:100%; max-width:250px; height:auto;"/>
+  <img src="{{ '/assets/img/awards/durhamcsc.jpg' | relative_url }}" alt="Durham CSC Award" style="width:100%; max-width:250px; height:auto;"/>
 </div>
+
 
