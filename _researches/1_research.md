@@ -1,4 +1,4 @@
----
+<!-- ---
 layout: page
 title: "AI Buddy Project: Transforming Social Interaction with AI-Powered Virtual Influencers [Ongoing!]"
 description: An innovative AI-powered social platform
@@ -14,4 +14,4 @@ Link to try 🔗[https://wenkehui.mike-x.com/BBiKn](https://wenkehui.mike-x.com/
 
 ![](/assets/img/researches/r1_1.png)
 ![](/assets/img/researches/r1_2.png)
-![](/assets/img/researches/r1_3.png)
+![](/assets/img/researches/r1_3.png) -->
