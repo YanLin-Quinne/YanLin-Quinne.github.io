@@ -22,7 +22,7 @@ People and words that remind me why I pursue research:
 
 - *“God is a girl.”* — from Dr [Kefan Xue](https://kefanxue.com/). 
 
-In her I have witnessed the strength of gentleness. As a social science DPhil, she combines rigour, confidence, and elegance in ways that opened my eyes to a different world of scholarship. 
+In her I have witnessed the strength of gentleness. 
 
 - *"As a woman in a very male-dominated subject, there is no question that challenges remain to achieve gender parity. But this is all the more reason why we women need to keep pursuing our passions in mathematics and nudging those scales towards balance."* - from Dr [Sarah Heaps](https://www.durham.ac.uk/staff/sarah-e-heaps/). 
 
