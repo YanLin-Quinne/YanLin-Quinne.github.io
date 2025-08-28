@@ -24,27 +24,20 @@ nav_order: 4
 
 ### Additional Teaching Responsibilities  
 
-- **Lab Testing & Maintenance** – Assisted in the testing and maintenance of laboratory computing facilities.  
-- **Induction Week Support** – Delivered academic induction activities for incoming undergraduate cohorts.  
-- **Student Recruitment** – Participated in outreach and recruitment activities, engaging with prospective students.  
-- **Exam Invigilation** – Served as Invigilator for the Supplementary Examination Series.  
-- **Postgraduate Dissertation Support** – Mentored MSc and MPhil students in summer dissertation projects (Jul–Aug 2025):  
+- Lab Testing & Maintenance 
+- Induction Week Support 
+- Student Recruitment  
+- Exam Invigilation  
+- Postgraduate Dissertation Support – Mentored MSc and MPhil students in summer dissertation projects (Jul–Aug 2025):  
   - *Project and Dissertation for MSc in Computer Science (CSC8099)*  
   - *Project and Dissertation for MSc in Advanced Computer Science (CSC8499)*  
 
 ---
 
 My teaching is deeply informed by my research expertise in large language models and multimodal artificial intelligence. In both undergraduate and postgraduate teaching, I emphasise clarity, accessibility, and inclusivity, ensuring that students gain confidence in approaching advanced computational methods while developing transferable problem-solving skills.  
+
 I am also pursuing the **Associate Fellowship Pathway (AFHEA)** through Newcastle University’s academic development scheme.
 
 
-
-<div class="t-grid-wrap">
-    <div class="t-grid-item tgi1"><img class="t-grid-item-img" src="/assets/img/teaching/t1.jpg" /></div>
-    <div class="t-grid-item tgi2"><img class="t-grid-item-img"  src="/assets/img/teaching/t2.jpg" /></div>
-    <div class="t-grid-item tgi3"><img class="t-grid-item-img"  src="/assets/img/teaching/t3.jpg" /></div>
-    <div class="t-grid-item tgi4"><img  class="t-grid-item-img" src="/assets/img/teaching/t4.jpg" /></div>
-    <div class="t-grid-item tgi5"><img class="t-grid-item-img"  src="/assets/img/teaching/t5.jpg" /></div>
-</div>
 
 
