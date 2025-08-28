@@ -1,8 +1,8 @@
 ---
 layout: page
 permalink: /resources/
-title: Reading Notes / Resources / Inspirations
-description: 
+title: Others
+description: Reading Notes / Resources / Inspirations
 nav: true
 nav_order: 10
 ---
