@@ -14,7 +14,7 @@ profile:
     <p> <small>School of Computing<small></p>
     <p> <small>Newcastle University<small></p>
   role: CS & Math PhD Student
-  organization: Newcastle  University  
+  #organization: Newcastle  University  
   organization_url:  
 
 interests:
@@ -31,6 +31,8 @@ education:
     
     - course: M.Sc. Data Science, 2022-2023
       institution: University of Durham, UK
+    
+
    
 
 
