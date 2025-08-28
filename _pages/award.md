@@ -19,7 +19,6 @@ horizontal: false
 
 *The studentship was voluntarily declined in favour of another offer.
 
-![qmul](/awards/award_qmul.jpg)
+![QMUL]({{ '/assets/img/awards/award_qmul.jpg' | relative_url }})
+![CSC]({{ '/assets/img/awards/award_csc.jpg' | relative_url }})
 
-
-![csc](/awards/award_csc.jpg)
