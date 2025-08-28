@@ -28,6 +28,6 @@ In her I have witnessed the strength of gentleness. As a social science DPhil, s
 
 I remain deeply grateful for her teaching at Durham, which first introduced me to the foundations of Bayesian statistics. 
 
+- I am also thankful to Pro [Camila Caiado](https://www.durham.ac.uk/staff/c-c-d-s-caiado/) and Dr [Yi Wang](https://wangy.org/), whose thoughtful guidance gave me clarity and encouragement at a time when I was struggling to choose between PhD offers. 
 
-- I am also thankful to Pro [Camila Caiado](https://www.durham.ac.uk/staff/c-c-d-s-caiado/) and Dr [Yi Wang](https://wangy.org/), who supported me with thoughtful guidance at a time when I was uncertain about which PhD offer to pursue.
 
