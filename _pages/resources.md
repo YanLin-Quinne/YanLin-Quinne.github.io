@@ -20,8 +20,8 @@ Some research tools, groups, and webpages I often return to:
 
 People and words that remind me of why I pursue research:
 
-- *“God is a girl.”* — from Dr Kefan Xue. In her I have seen the strength of gentleness.  
+- *“God is a girl.”* — from Dr [Kefan Xue](https://kefanxue.com/). In her I have seen the strength of gentleness.  
 
-- *"As a woman in a very male-dominated subject, there is no question that challenges remain to achieve gender parity. But this is all the more reason why we women need to keep pursuing our passions in mathematics and nudging those scales towards balance."* - from Dr Sarah Heaps. I remain deeply grateful to her teaching at Durham, which first guided me into the foundations of Bayesian statistics.
+- *"As a woman in a very male-dominated subject, there is no question that challenges remain to achieve gender parity. But this is all the more reason why we women need to keep pursuing our passions in mathematics and nudging those scales towards balance."* - from Dr [Sarah Heaps](https://www.durham.ac.uk/staff/sarah-e-heaps/). I remain deeply grateful to her teaching at Durham, which first guided me into the foundations of Bayesian statistics.
 
-- I am also grateful to **Professor Camila Caiado**, Programme Director of the MSc in Data Science at Durham, whose guidance and encouragement were invaluable when I was preparing my PhD applications.
+- I am also grateful to Pro [Camila Caiado](https://www.durham.ac.uk/staff/c-c-d-s-caiado/), Programme Director of the MSc in Data Science at Durham, whose guidance and encouragement were invaluable when I was preparing my PhD applications.
