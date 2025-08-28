@@ -8,7 +8,7 @@ nav_order: 4
 ---
 
 
-**Conference Organization**
+**Workshops and Conferences**
 
 Kernels, Flows and Sampling Conference, UK (Oct 2025) [Link](https://sites.google.com/view/kernels-flows-and-sampling/home)
 
