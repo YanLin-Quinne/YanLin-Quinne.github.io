@@ -17,7 +17,8 @@ Some research tools, groups, and webpages I often return to:
 - [DailyArXiv](https://github.com/zezhishao/DailyArXiv) – a GitHub-based tool that fetches the latest arXiv papers by keyword and provides daily updates.  
 - [Papers with Code](https://paperswithcode.com/) – browse state-of-the-art results and their open-source implementations.  
 - [AutoDL](https://www.autodl.com/) – a Chinese cloud platform offering GPU/TPU computing resources for AI training.  
-- [XianGu Cloud (仙宫云)](https://www.xiangongyun.com/) 
+- [XianGuYun (仙宫云)](https://www.xiangongyun.com/) 
+- [LGBTQ Math](https://www.lgbtmath.org/)
 - [Prof. Jeff Z. Pan – Knowledge Representation](https://knowledge-representation.org/j.z.pan/)  
 - [How to be a Good PhD Student](https://...) *(classic advice and reflections)*  
 
