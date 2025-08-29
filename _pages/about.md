@@ -32,6 +32,10 @@ education:
     - course: M.Sc. Data Science, 2022-2023
       institution: University of Durham, UK
     
+    - course: BA.Finance and Economics, 2015-2019
+      institution: Huaqiao University (Mainland China) & National Taipei University (Taiwan, Exchange Programme)
+    
+
 
    
 
