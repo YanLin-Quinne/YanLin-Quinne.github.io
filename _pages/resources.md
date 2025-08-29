@@ -10,6 +10,8 @@ nav_order: 10
 ##  Useful Resources
 Some research tools, groups, and webpages I often return to:
 
+- [Hung-yi Lee – Machine Learning / Deep Learning (YouTube)](https://www.youtube.com/@HungyiLeeNTU)   
+- [Mu Li – Bilibili Video Courses (李沐)](https://space.bilibili.com/1567748478) 
 - [Talk2Paper – by 风信子的猫 Redamancy](https://kedreamix.github.io/Talk2Paper/#indexCard)  
 - [Prof. Jeff Z. Pan – Knowledge Representation](https://knowledge-representation.org/j.z.pan/)  
 - [How to be a Good PhD Student](https://...) *(classic advice and reflections)*  

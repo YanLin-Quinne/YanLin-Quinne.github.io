@@ -11,6 +11,8 @@ horizontal: false
 
 Recent works are pending publication.
 
+- [My MSc Project Portfolio (GitHub)](https://github.com/YanLin-Quinne/Master-of-Data-Science) – Data science and ML projects  
+
 
 ## Technical Toolkit  
 NLP Toolkits: HuggingFace, NLTK, spaCy, FairSeq, Stanford CoreNLP, AllenNLP, GenSim  
