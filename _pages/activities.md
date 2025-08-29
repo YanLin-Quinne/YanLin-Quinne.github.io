@@ -16,6 +16,8 @@ Attendees, 4th Durham Economic Theory Conference, Durham University, UK (Jun 202
 
 Attendees, OxML2024: Representation Learning and Generative AI summer school, Oxford University, UK (Aug 2024) [Link](https://www.oxfordml.school/)
 
+Attendees, UK AI Research Symposium (UKAIRS),Northumbria University, UK (Sep 2024)[Link](https://www.ukairs.ac.uk/)
+
 Attendees, Kernels, Flows and Sampling Workshop, Newcastle University, UK (Oct 2025) [Link](https://sites.google.com/view/kernels-flows-and-sampling/home)
 
 
