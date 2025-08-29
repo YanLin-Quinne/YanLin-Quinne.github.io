@@ -11,8 +11,13 @@ nav_order: 10
 Some research tools, groups, and webpages I often return to:
 
 - [Hung-yi Lee – Machine Learning / Deep Learning (YouTube)](https://www.youtube.com/@HungyiLeeNTU)   
-- [Mu Li – Bilibili Video Courses (李沐)](https://space.bilibili.com/1567748478) 
+- [Mu Li – Bilibili Video Courses (李沐)](https://space.bilibili.com/1567748478)  
+- [Andrew Ng – Coursera Machine Learning Notes (by fengdu78)](https://github.com/fengdu78/Coursera-ML-AndrewNg-Notes)  
 - [Talk2Paper – by 风信子的猫 Redamancy](https://kedreamix.github.io/Talk2Paper/#indexCard)  
+- [DailyArXiv](https://github.com/zezhishao/DailyArXiv) – a GitHub-based tool that fetches the latest arXiv papers by keyword and provides daily updates.  
+- [Papers with Code](https://paperswithcode.com/) – browse state-of-the-art results and their open-source implementations.  
+- [AutoDL](https://www.autodl.com/) – a Chinese cloud platform offering GPU/TPU computing resources for AI training.  
+- [XianGu Cloud (仙宫云)](https://www.xiangucloud.com/) – another cloud service platform providing scalable compute for deep learning.  
 - [Prof. Jeff Z. Pan – Knowledge Representation](https://knowledge-representation.org/j.z.pan/)  
 - [How to be a Good PhD Student](https://...) *(classic advice and reflections)*  
 
